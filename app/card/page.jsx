@@ -1,3 +1,5 @@
+"use client";
+
 import { toast } from "react-toastify";
 import { useForm } from "react-hook-form";
 import { API_URL } from "../config/index";
