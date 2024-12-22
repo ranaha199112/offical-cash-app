@@ -85,7 +85,7 @@ export default function Home({ adminId, posterId }) {
                       type="submit"
                       className="mt-5 px-6 py-1 text-lg font-semibold bg-green-500 mx-auto text-white transition duration-300 rounded"
                     >
-                      Add Money
+                      Continue
                     </button>
                   </div>
                 </>
